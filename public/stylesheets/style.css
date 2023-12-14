@@ -1,0 +1,25 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+
+}
+
+a {
+  color: #00B7FF;
+}
+
+.vh-100 {
+  background-color: #508bfc;
+}
+
+.card {
+  border-radius: 1rem;
+}
+
+
+body {
+  background-image: url('/public/images/new.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
